@@ -1,1 +1,6 @@
-撒旦发射点
+package testt
+import "fmt"
+func Ha(){
+
+  fmt.Println("hahh")
+}
